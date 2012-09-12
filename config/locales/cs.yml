@@ -8,3 +8,4 @@ cs:
   timesheet_showing_users: 'zobrazuji časy pro: '
   timesheet_permalink: '(Permalink k tomuto přehledu práce)'
   timesheet_group_by: Seskupit dle
+  permission_see_project_timesheets: Zobrazit záznamy času projektu
